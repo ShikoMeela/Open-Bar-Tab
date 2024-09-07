@@ -1,0 +1,20 @@
+[
+        {
+            "id": 1,
+            "name": "Beer",
+            "image": "/beer_image.jpg",
+            "price": 45.00
+        },
+        {
+            "id": 2,
+            "name": "Cider",
+            "image": "/cider_image.jpg",
+            "price": 52.00
+        },
+        {
+            "id": 3,
+            "name": "Premix",
+            "image": "/premix_image.jpg",
+            "price": 59.00
+        }
+]
